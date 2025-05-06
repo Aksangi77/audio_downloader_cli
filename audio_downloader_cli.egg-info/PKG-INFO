@@ -1,0 +1,37 @@
+Metadata-Version: 2.4
+Name: audio-downloader-cli
+Version: 0.1.0
+Summary: A CLI tool to download audio from YouTube and other sites using yt-dlp.
+Home-page: https://github.com/yourusername/audio-downloader-cli
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Utilities
+Classifier: Environment :: Console
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: yt-dlp
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Audio Downloader CLI
+
+A CLI tool to download audio from YouTube and other sites using yt-dlp.
+
+## Installation
+
+(Instructions to be added once packaging is complete)
+
+## Usage
+
+audio-downloader-cli <URL_OF_VIDEO>

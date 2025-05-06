@@ -1,0 +1,2 @@
+[console_scripts]
+audio-downloader-cli = audio_downloader:main

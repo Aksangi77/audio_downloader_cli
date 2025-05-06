@@ -1,0 +1,9 @@
+README.md
+audio_downloader.py
+setup.py
+audio_downloader_cli.egg-info/PKG-INFO
+audio_downloader_cli.egg-info/SOURCES.txt
+audio_downloader_cli.egg-info/dependency_links.txt
+audio_downloader_cli.egg-info/entry_points.txt
+audio_downloader_cli.egg-info/requires.txt
+audio_downloader_cli.egg-info/top_level.txt
